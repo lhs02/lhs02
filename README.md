@@ -1,16 +1,13 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:FFD700&height=200&section=header&text=Lucas%20Henrique%20Silva&fontSize=40&fontColor=FFFFFF&fontAlignY=35)
 
-<!--
-**lhs02/lhs02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub Profile! 👋  
+I'm **Lucas Henrique Silva**, a **Data Scientist** passionate about solving problems with **Python** and **SQL**.  
 
-Here are some ideas to get you started:
+## ⚡ My Skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+
+---
+
+> 💡 _"Exploring data, building models, and finding insights!"_  
